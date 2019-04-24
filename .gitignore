@@ -1,3 +1,9 @@
+## Backup
+*.*~
+
+## lyx files are to expensive 
+*.lyx
+
 ## Core latex/pdflatex auxiliary files:
 *.aux
 *.lof
